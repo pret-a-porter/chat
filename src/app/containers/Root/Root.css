@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  margin: 50px auto;
+  max-width: 1140px;
+  min-width: 600px;
+  min-height: 400px;
+  background: #FFFFFF;
+  box-shadow: 0 -1px 0 0 #EAEAED;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0;
+}

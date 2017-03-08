@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 25px 0;
+}
+
+.list {
+  box-sizing: border-box;
+  padding: 0 25px;
+  max-height: 300px;
+  overflow-y: auto;
+}

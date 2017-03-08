@@ -1,0 +1,5 @@
+.left {
+  float: left;
+  min-width: 400px;
+  border-right: 1px solid #EAEAED;
+}
